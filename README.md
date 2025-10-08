@@ -39,11 +39,14 @@ create user pgadmin with superuser password 'admin';
 Se desejar, substitua o nome de usuário e a senha.
 
 ### Criando servidor no PgAdmin
-1- Abra o PgAdmin
+1- Abra o PgAdmin.
+
 2- Aperte com o botão direito em **Server**, selecione **Register > Server**
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/5809050d-826c-4465-80ef-03f0541ec280" />
 
-3- Digite um nome para o servidor
+3- Digite um nome para o servidor.
+
 4- Na aba **Connections**, digite:
 - Em Host name/adress: **localhost**
 - Em username, o nome do usuário que criou. Neste caso, **pgadmin**
