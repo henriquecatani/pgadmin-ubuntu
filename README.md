@@ -1,7 +1,9 @@
 # pgadmin-ubuntu
 Tutorial de instalação e configuração de servidor no Ubuntu.
 
-Testado no Ubuntu 22.04 e Mint 22.1, mas deve funcionar em outras distros baseadas em Debian.
+Testado no Ubuntu 22.04 e Mint 22.1.  
+A partir do Debian 12 e Ubuntu 24, a parte da INSTALAÇÃO abaixo não funciona. Para isso, siga o guia oficial no link: https://www.pgadmin.org/download/pgadmin-4-apt/  
+Depois, prossiga para a seção Configuração.
 
 ## Instalação
 #### Adicionando chave de repositório
